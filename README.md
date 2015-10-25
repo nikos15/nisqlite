@@ -1,0 +1,2 @@
+# nisqlite
+Java SQLite GUI
