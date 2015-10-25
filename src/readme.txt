@@ -5,7 +5,7 @@ An SQLite database manager, build with JavaFX8.
 
 Requirements:
 1. Java SE 8u40 or later.
-2. The included JBDC driver: sqlite-jdbc-3.8.10.1.jar.
+2. JBDC driver: sqlite-jdbc-3.8.10.1.jar.
 
 
 Included in the zip file:
